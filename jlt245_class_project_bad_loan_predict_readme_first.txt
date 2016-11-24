@@ -207,18 +207,15 @@ performance.
 
  
 
+%% References
 
-
-
-
-
-
-
-
-
-
-
-
-
+[1] https://h2o-release.s3.amazonaws.com/h2o/rel-turan/4/docs-website/h2o-docs/booklets/R_Vignette.pdf
+[2] https://h2o-release.s3.amazonaws.com/h2o/rel-tibshirani/8/docs-website/h2o-docs/booklets/DeepLearning_Vignette.pdf
+[3] http://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html
+[4] http://www.dataversity.net/efficient-machine-learning-h2o-r-python-part-1/
+[5] Ensemble Methods (Foundations and Algorithms) by Zhi-Hua Zhou
+[6] http://www.stat.berkeley.edu/~ledell/R/h2oEnsemble.pdf
+[7] https://rdrr.io/cran/h2o/man/h2o.prcomp.html
+[8] https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
 
 
