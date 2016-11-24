@@ -4,7 +4,7 @@
 
 The lending club has posted its loan information dataset online, which allows freely downloaded by any interested parties. In this class project, I would like to take them as the dataset to explore the deep learning and ensemble learning for the project.
 
-% Data loading and Cleaning
+%% Data loading and Cleaning
 
 The datasets are from https://www.lendingclub.com/info/download-data.action, they are three in the project folder:
 
@@ -22,7 +22,7 @@ will merge them and generate a single raw data file:
 
 They are totally 330867 records with 111 dimensions or fields.
 
-% Feature Selection
+%% Feature Selection
 
 Obviously we are not going to process all those 111 dimensions in the raw dataset. What I did was to use a R script to convert fields into features that we will process the learning algorithms against them and narrow down the dimensions.
 
@@ -54,7 +54,7 @@ There are always possibilities to improve the prediction by experimenting the va
 
 Also PCA analysis may help such process too.
 
-% Deep Learning
+%% Deep Learning
 
 With the chosen dataset of 20 dimensions, we can run deep learning algorithms in h2o R package.
 
@@ -125,7 +125,7 @@ Comparisons of performances:
  * Not good for 5 hidden layers in this case *
 
 
-% Ensemble Method
+%% Ensemble Method
 
 Ensemble method are learning approach that train multiple learners and combine them for use, with
 Boosting and Bagging as representatives in order to achieve better performance.
@@ -184,7 +184,7 @@ and further algorithms case, the results are:
  * as can be seen that Ensemble performance is above the average of the performance from all base algorithms *
 
 
-% Conclusion
+%% Conclusion
 
 A few key points of achieving better performance are:
 
