@@ -4,6 +4,16 @@
 
 The lending club has posted its loan information dataset online, which allows freely downloaded by any interested parties. In this class project, I would like to take them as the dataset to explore the deep learning and ensemble learning for the project.
 
+%% Install the packages used
+
+h2o R package and related are the major part of installation. The execution environment needs java pre-installed.
+
+Run the script
+
+ Rscript jlt245_class_project_bad_loan_predict_packages_install.R
+
+
+
 %% Data loading and Cleaning
 
 The datasets are from https://www.lendingclub.com/info/download-data.action, they are three in the project folder:
