@@ -32,6 +32,13 @@ will merge them and generate a single raw data file:
 
 They are totally 330867 records with 111 dimensions or fields.
 
+Due to the space restriction of github, the data files are kept at 
+  
+  https://app.box.com/s/l22h54cp6g4xxrgkej690rtqnuat25no
+
+Please download them and put them in this class-project folder.
+
+
 %% Feature Selection
 
 Obviously we are not going to process all those 111 dimensions in the raw dataset. What I did was to use a R script to convert fields into features that we will process the learning algorithms against them and narrow down the dimensions.
