@@ -217,5 +217,5 @@ performance.
 [6] http://www.stat.berkeley.edu/~ledell/R/h2oEnsemble.pdf
 [7] https://rdrr.io/cran/h2o/man/h2o.prcomp.html
 [8] https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
-
+[9] Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
